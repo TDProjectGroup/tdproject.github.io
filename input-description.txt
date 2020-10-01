@@ -10,9 +10,9 @@ Range: All positive distances
 3. Number of sub-conductors per bundle:
 Description: Number of sub-conductors in each phase conductor (Assumed to be equal for all
 the three phases).
-Range: Positive number of subconductors
+Range: Positive number of subconductors in the line
 
-4. Diameter of each strand:
+4. Diameter of each strand in the conductor, according to IEEE:
 Description: Diameter of the stranded ACSR conductor (Assumed to equal for all subconductors).
 Units: m, mm, inch or ft
 Range: All positive distances
